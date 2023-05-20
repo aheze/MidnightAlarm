@@ -1,4 +1,4 @@
-# MidnightBugTracker
+# Midnight Alarm - Bug Tracker + Feature Ranker
 
 A place to track bugs for Midnight.
 
